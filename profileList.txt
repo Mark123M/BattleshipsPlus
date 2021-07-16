@@ -1,0 +1,80 @@
+Larry Li
+Germany
+<[Veteran]>
+23
+700
+34000
+50
+1
+Daniel E
+Ukraine
+-[Commander]-
+12
+4000
+4800
+100
+0
+Kevin yaoht
+China
+<|Lieutenant|>
+6
+500
+6300
+6
+10
+Henry rent
+Uganda
+<|Lieutenant|>
+6
+300
+6300
+15
+20
+Mark Ma
+Canada
+|Recruit|
+4
+46
+100
+10
+4
+Kia Valehi
+Japan
+|Recruit|
+1
+0
+100
+0
+0
+Alex D
+America
+|Recruit|
+1
+0
+100
+0
+0
+Hubert Q
+British
+|Recruit|
+1
+0
+100
+0
+0
+amongus
+Africa
+|Recruit|
+1
+0
+100
+0
+0
+eric
+Africa
+|Recruit|
+1
+0
+100
+0
+0
